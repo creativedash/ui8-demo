@@ -20,6 +20,7 @@ MongoDB - https://docs.mongodb.com/manual/installation/
 
 A functioning codebase is provided to cut down on setup time. The directory structure is as follows
 
+```
 .
 ├── bin
 ├── client _Front-end code_
@@ -39,6 +40,7 @@ A functioning codebase is provided to cut down on setup time. The directory stru
 ├── models
 ├── routes
 └── views
+```
 
 The client-side JavaScript and styles are compiled, concatenated, and minified by gulp. The gulp process is run by default with the `npm run dev` command.
 
