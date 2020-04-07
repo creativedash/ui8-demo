@@ -56,8 +56,8 @@ The development environment watches for changes in both server-side and client-s
 
 ## Package Documentation
 
-[AngularJS](https://docs.angularjs.org/api)
-[UI-Router](https://ui-router.github.io/ng1/)
-[ExpressJS](http://expressjs.com/en/4x/api.html)
-[Mongoose](https://mongoosejs.com/docs/guide.html)
-[GulpJS](https://gulpjs.com/docs/en/api/concepts/)
+- [AngularJS](https://docs.angularjs.org/api)
+- [UI-Router](https://ui-router.github.io/ng1/)
+- [ExpressJS](http://expressjs.com/en/4x/api.html)
+- [Mongoose](https://mongoosejs.com/docs/guide.html)
+- [GulpJS](https://gulpjs.com/docs/en/api/concepts/)
