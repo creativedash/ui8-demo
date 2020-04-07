@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,uDAAwD,CACzD,EAGC,aAAc","file":"app.min.css","sourcesContent":["body {\n  padding: 50px;\n  font: 14px \"Lucida Grande\", Helvetica, Arial, sans-serif;\n}\n\na {\n  color: #00b7ff;\n}\n"]}
