@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@uirouter/angularjs": "^1.0.25",
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-resource": "^1.7.9",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
